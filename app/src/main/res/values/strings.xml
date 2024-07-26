@@ -1,0 +1,13 @@
+
+    <resources>
+        <string name="main_message">운전자의 불편함이 해소될 때까지,\n빠그가 열심히 노력할게요</string>
+        <string name="login_prompt">계정이 있으신가요? 로그인</string>
+        <string name="join_button_text">가입하기</string>
+        <string name="app_name">MyApp</string>
+        <string name="login">로그인</string>
+        <string name="email_hint">이메일</string>
+        <string name="password_hint">비밀번호</string>
+        <string name="forgot_password">비밀번호 찾기</string>
+        <string name="no_account">계정이 없으신가요?</string>
+        <string name="sign_up">회원가입</string>
+    </resources>
